@@ -1,6 +1,8 @@
 # Trace
 
 I fully designed and developed a mobile application through Android Studio that tracks user input to analyze the user's levels of stress over time and resolve possible causes of stress for users. 
+
+Here is a link to a video showing the application in use: https://www.youtube.com/watch?v=67x6Zfm0Q4M&t=10s
  
 Here, we see under the “History” tab that there is a fully functioning calendar. The blue colored date would represent today’s date. Users can quickly gather information about past panic or stress related attacks or notes using the clearly marked icons that populate the calendar. The “heart” icon would represent if the user had a panic attack that day while the “note” icon represents a note that the user recorded.
 
